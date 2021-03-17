@@ -1,0 +1,15 @@
+output/
+logs/
+dataprep/all_faq_instances
+dataprep/all_reply_instances.pkl
+bert_chinese_base/
+dataprep/.ipynb_checkpoints
+__pycache__/
+notebooks
+latest_dir
+configs
+/best_dir
+dataprep
+*.txt
+dataprep/create_md_pretraining.py
+README.md
